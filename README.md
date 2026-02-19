@@ -11,16 +11,16 @@ Sistema de gestión de inventario y ventas para ferreterías y comercios minoris
 - **Reportes y Estadísticas**: Análisis de ventas, productos más vendidos y métricas de negocio
 - **Multi-usuario**: Sistema de roles (Empleado/Gerente)
 
-### Funcionalidades Destacadas
+### Funcionalidades destacadas esperadas
 
-✅ Control de stock en tiempo real  
-✅ Alertas de stock mínimo  
-✅ Búsqueda rápida de productos  
-✅ Generación de tickets de venta  
-✅ Reportes visuales con gráficos  
-✅ Historial de ventas  
-✅ Gestión de categorías y proveedores  
-✅ Autenticación y roles de usuario  
+✅ Control de stock en tiempo real
+✅ Alertas de stock mínimo
+✅ Búsqueda rápida de productos
+✅ Generación de tickets de venta
+✅ Reportes visuales con gráficos
+✅ Historial de ventas
+✅ Gestión de categorías y proveedores
+✅ Autenticación y roles de usuario
 
 ## 🛠️ Tecnologías
 
@@ -99,18 +99,19 @@ src/
 🔨 **En desarrollo activo**
 
 ### Completado
-- [ ] Configuración inicial
-- [ ] Diseño de base de datos
-- [ ] Autenticación
+- Configuración inicial
+- Maquetado layout
 
 ### En progreso
-- [ ] Módulo POS
-- [ ] Gestión de inventario
 
 ### Próximamente
-- [ ] Reportes y estadísticas
-- [ ] Sistema de proveedores
-- [ ] Exportación de datos
+- Módulo POS
+- Gestión de inventario
+- Diseño de base de datos
+- Autenticación
+- Reportes y estadísticas
+- Sistema de proveedores
+- Exportación de datos
 
 ## 📝 Scripts Disponibles
 ```bash
@@ -134,17 +135,15 @@ Las contribuciones son bienvenidas. Por favor:
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
-## 👨‍💻 Autor
+## Autor
 
 **Tu Nombre**
 - GitHub: [@manuel-aguirre-developer](https://github.com/manuel-aguirre-developer)
 - LinkedIn: [@manuel-aguirre-developer](https://linkedin.com/in/manuel-aguirre-developer)
 
-## 🙏 Agradecimientos
+## Adiccional
 
 - Proyecto creado como parte del portafolio profesional
 - Diseñado para resolver necesidades reales de comercios minoristas
 
 ---
-
-⭐️ Si te gusta este proyecto, dale una estrella en GitHub
