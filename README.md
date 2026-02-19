@@ -160,9 +160,12 @@ POST   /api/auth/login        → Autenticación
 ### Completado
 - Configuración inicial del frontend
 - Maquetado del layout y sidebar
+- Configuración del backend (Express + Prisma)
+- Conexión a base de datos PostgreSQL (Neon)
+- Migraciones iniciales
 
 ### En progreso
-- Diseño e implementación de la base de datos
+- Módulo de productos
 
 ### Próximamente
 - Configuración del backend (Express + Prisma)
